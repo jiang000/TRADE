@@ -74,25 +74,25 @@ date: 2023.03.12
 
   
 
-******当然，为防止还有人抬杠，老南也顺手把成立10年以上的混合型基金，过去10年的年化收益率区间统计了下，做了个直方图：******
+当然，为防止还有人抬杠，老南也顺手把成立10年以上的混合型基金，过去10年的年化收益率区间统计了下，做了个直方图：
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/TOCsFlJ76I0icYibjtjWrWHp47wHoqVYZU6kvicY6BZIiadtxicq6dVJ8UIAOVpPRY8fK3CQicUlibh6iavjYCWq9I1wcg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
+![](assets/首选指数？巴菲特这话在A股并不对/file-20260628224307281.png)
 
-******数据来源：wind 拾榴询财******
+数据来源：wind 拾榴询财
 
-******清晰可见，大部分的基金收益，是落在10%-15%这个收益区间。******
+**清晰可见，大部分的基金收益，是落在10%-15%这个收益区间。**
 
-******老南特地看了下，排名位于中间的基金，叫“大成价值增长”，这是只完全没有存在感的非网红基金，规模也就12亿多。******
+老南特地看了下，排名位于中间的基金，叫“大成价值增长”，这是只完全没有存在感的非网红基金，规模也就12亿多。
 
 **但10年业绩，涨了近2倍，年化11.54%，远远领先沪深300。（反复强调，并非基金推荐，只是举例）**
 
-******![图片](https://mmbiz.qpic.cn/mmbiz_png/TOCsFlJ76I0icYibjtjWrWHp47wHoqVYZUVOrIp7h3b08Lbbjwjm6ticVbPcfz8ALoPpTeLknbpFy42icqZ96qk9Rw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5)******
+![](assets/首选指数？巴菲特这话在A股并不对/file-20260628224440523.png)
 
 **这只是排名中间的一只普通公募基金而已。**
 
-******至于私募量化指数增强的平均超额业绩，感受下吧：******
+**至于私募量化指数增强的平均超额业绩，感受下吧：**
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/TOCsFlJ76I0icYibjtjWrWHp47wHoqVYZUUqZD6VKdRkwoOST4iatTB8LQyEFkZ5AHTSw09Cekv2iag9v0U5vgf1qg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6)
+![](assets/首选指数？巴菲特这话在A股并不对/file-20260628224450683.png)
 
 数据来源：中信证券
 
