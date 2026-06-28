@@ -1,7 +1,7 @@
 {
   "attachmentFolderPath": "./assets/${noteFileName}",
   "attachmentRenameMode": "All",
-  "collectAttachmentUsedByMultipleNotesMode": "Skip",
+  "collectAttachmentUsedByMultipleNotesMode": "Copy",
   "collectedAttachmentFileName": "",
   "convertImagesToJpegMode": "None",
   "customTokensStr": "",
@@ -17,7 +17,7 @@
   "markdownUrlFormat": "assets/${noteFileName}/${generatedAttachmentFileName}",
   "moveAttachmentToProperFolderUsedByMultipleNotesMode": "CopyAll",
   "renamedAttachmentFileName": "",
-  "shouldDeleteOrphanAttachments": false,
+  "shouldDeleteOrphanAttachments": true,
   "shouldHandleRenames": true,
   "shouldRenameAttachmentFiles": true,
   "shouldRenameAttachmentFolder": true,
