@@ -1,11 +1,11 @@
 {
   "attachmentFolderPath": "./assets/${noteFileName}",
-  "attachmentRenameMode": "All",
+  "attachmentRenameMode": "Only pasted images",
   "collectAttachmentUsedByMultipleNotesMode": "Copy",
   "collectedAttachmentFileName": "",
   "convertImagesToJpegMode": "None",
   "customTokensStr": "",
-  "defaultImageSize": "",
+  "defaultImageSize": "1000px",
   "defaultImageSizeDimension": "width",
   "duplicateNameSeparator": " ",
   "emptyFolderBehavior": "DeleteWithEmptyParents",
