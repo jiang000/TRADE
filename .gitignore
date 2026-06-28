@@ -1,6 +1,32 @@
+# ===================================================
+# 1. 排除 Obsidian 核心缓存与频繁变动的临时文件
+# ===================================================
+
+# 排除当前工作区状态（强烈建议，防止多端同步冲突）
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-.obsidian/plugins/
+
+# 排除本地索引缓存
 .obsidian/cache/
-.obsidian/community-plugins.json
-.obsidian/core-plugins.json
+
+
+# ===================================================
+# 2. 排除系统生成的隐藏临时文件
+# ===================================================
+
+# 苹果 macOS 系统的文件夹自定义属性文件
+.DS_Store
+
+# Windows 系统的缩略图缓存
+Thumbs.db
+
+# ===================================================
+# 3. 自己写的排除文件
+#.obsidian/workspace.json
+#.obsidian/workspace-mobile.json
+#.obsidian/plugins/
+#.obsidian/cache/
+#.obsidian/community-plugins.json
+#.obsidian/core-plugins.json
+# ===================================================
+
