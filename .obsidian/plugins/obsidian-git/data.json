@@ -9,7 +9,7 @@
   "autoPullOnBoot": true,
   "autoCommitOnlyStaged": false,
   "disablePush": false,
-  "pullBeforePush": false,
+  "pullBeforePush": true,
   "disablePopups": false,
   "showErrorNotices": true,
   "disablePopupsForNoChanges": false,
