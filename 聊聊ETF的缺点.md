@@ -10,17 +10,17 @@ date: 2024.11.07
 
   
 
-**0****1**
+**01**
 
   
 
 随着19-21年期间，尤其21年规模暴增的主动偏股公募基金，在22、23年的回撤中，大量40%、甚至50%的回撤，让投资者失去信任。
 
-逻辑可参考我当年写的《[投资百亿基金，就输在了起跑线上](http://mp.weixin.qq.com/s?__biz=MzAwNTc1NzQ5NA==&mid=2649723475&idx=1&sn=3649eda1626d1bded15f9e75f2b3f624&chksm=830cfd0ab47b741c4f28e679a1566ec0f5420903687b37fe374a8c4fbc3c1106da06263e4299&scene=21#wechat_redirect)》
+逻辑可参考我当年写的《[投资百亿基金，就输在了起跑线上](投资百亿基金，就输在了起跑线上.md)》
 
 去年以来，以ETF为代表的被动型基金，受到青睐，截止到今年3季度，历史上首次规模超过了主动基金。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/TOCsFlJ76I1V5ssqChZibQn1cxK2F6kxwAU9ibK7LggOPzOJPP8HibQCXkVY6pDMb0BrAKMIpl9Mf1ibeVWwpBSibtw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
+![](assets/聊聊ETF的缺点/file-20260628223304425.png)
 
 这两天，距9.23，A500指数推出一个多月，跟踪A500的指数基金规模达1035亿，创下境内指数基金最快突破千亿的纪录。
 
@@ -30,7 +30,7 @@ ETF的优点这里就不多说了，本质就是根据对应指数，复制一�
 
   
 
-**0****2**
+**02**
 
   
 
@@ -38,7 +38,7 @@ ETF的优点这里就不多说了，本质就是根据对应指数，复制一�
 
 我们在wind里构建一个对比，一个是沪深300（黄线），一个是万得基金重仓股100（白线），就是基金重仓的票。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/TOCsFlJ76I1V5ssqChZibQn1cxK2F6kxw6qSp5H9uSP3Ay4iaFL8XKOntmIDUxo8v3CZypJjq7xmqqibrVDGacHRw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2)
+![](assets/聊聊ETF的缺点/file-20260628223426938.png)
 
 图片来源：wind
 
@@ -52,7 +52,7 @@ ETF的优点这里就不多说了，本质就是根据对应指数，复制一�
 
 这会医药ETF还剩8%的涨幅，而兰兰的中欧医疗还有72%的回报，但两者的最大回撤，恰好一模一样，67%。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/TOCsFlJ76I1V5ssqChZibQn1cxK2F6kxwVTfQQRLhdicsrqwrTJb236waWJtM3ibkCqh1mxhIP3zTykhica1IcZoYA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
+![](assets/聊聊ETF的缺点/file-20260628223442932.png)
 
 图片来源：wind
 
@@ -60,13 +60,13 @@ ETF的优点这里就不多说了，本质就是根据对应指数，复制一�
 
 有兴趣的，还可以看我们去年写的这篇——《[首选指数？巴菲特这话在A股并不对](http://mp.weixin.qq.com/s?__biz=MzAwNTc1NzQ5NA==&mid=2649727350&idx=1&sn=93fd5bbe5e54ad383826e2bd7ef1f3fa&chksm=830cce2fb47b4739b3b69bd07c34d8e64c17920e6431d13bea09a9f997333ccb2f131fede28d&scene=21#wechat_redirect)》，里面列举了大量的数据。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/TOCsFlJ76I0icYibjtjWrWHp47wHoqVYZUdqzqqdhvwEicG4HGibKX3KwQpmFibMe9bYKdAiaSxafFVerwfQlqm0Jptg/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp#imgIndex=4)
+![](assets/聊聊ETF的缺点/file-20260628223532018.png)
 
 数据来源：wind  拾榴询财
 
   
 
-**0****3**
+**03**
 
   
 
@@ -78,7 +78,7 @@ ETF的优点这里就不多说了，本质就是根据对应指数，复制一�
 
 然后到了21年，蓝筹开始大跌，光伏、新能源为代表的成长股开始涨。这个风格又开始和中证500高度相关。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/TOCsFlJ76I1V5ssqChZibQn1cxK2F6kxwqQ7CnF5e2MLsEHueN3Rq3aEbTYRvQuia6gtiaib2YDpaxGR5ubsINT0sA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5)
+![](assets/聊聊ETF的缺点/file-20260628223556442.png)
 
 这个图就很清楚了，19年初到20年底，300跑赢500近30%，而21年，500又跑赢300近26%。
 
@@ -88,7 +88,7 @@ ETF的优点这里就不多说了，本质就是根据对应指数，复制一�
 
   
 
-**0****4**
+**04**
 
   
 
@@ -104,7 +104,7 @@ ETF的优点这里就不多说了，本质就是根据对应指数，复制一�
 
 各位感受下，这是某大券商统计的，私募量化指增产品，今年的均值超额数据，更别说优秀的产品了：
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/TOCsFlJ76I1V5ssqChZibQn1cxK2F6kxw3lbfEtJ5n1M4nDvPqBictf9LCGPErs53t9elUaRROyFVHGY8CEW70Ng/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6)
+![](assets/聊聊ETF的缺点/file-20260628223641876.png)
 
   
 
