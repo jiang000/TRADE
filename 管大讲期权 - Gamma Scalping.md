@@ -1,6 +1,9 @@
 ---
+title: "管大讲期权 - Gamma Scalping"
+layout: default
 author: 戴蒙德曼研究院
 date: 2018.11.06
+pubdate: "2018.11.06"
 ---
 
 **点击蓝字**

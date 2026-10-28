@@ -1,6 +1,9 @@
 ---
+title: "聊聊ETF的缺点"
+layout: default
 author: 拾榴询财
 date: 2024.11.07
+pubdate: "2024.11.07"
 ---
 这两周老南出差比较多，忙得转不开。
 

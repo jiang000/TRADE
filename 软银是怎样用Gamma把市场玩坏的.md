@@ -1,6 +1,9 @@
 ---
+title: "软银是怎样用Gamma把市场玩坏的"
+layout: default
 author: 三思期权
 date: 2020.10.06
+pubdate: "2020.10.06"
 ---
 **【白话期权】**
 

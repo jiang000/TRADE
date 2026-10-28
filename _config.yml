@@ -1,0 +1,40 @@
+# ===================================================
+# 站点基本信息
+# ===================================================
+title: 交易随笔
+description: 投资与期权阅读笔记
+lang: zh-CN
+
+# ===================================================
+# GitHub Pages 部署
+# ===================================================
+# 项目站点地址：https://<用户名>.github.io/<仓库名>/
+# 若改用「用户主页」(即 <用户名>.github.io 根域名) 或自定义域名，把 baseurl 改为 ""
+baseurl: "/TRADE"
+url: "https://jiang000.github.io"
+
+# ===================================================
+# 构建配置
+# ===================================================
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+
+# 所有页面（含未来新增的文章）默认套用 default 布局
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+# 不参与构建 / 不渲染成页面的文件
+exclude:
+  - README.md
+  - tools/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .gitignore

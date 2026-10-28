@@ -1,6 +1,9 @@
 ---
+title: "A股见顶见底的各种标志"
+layout: default
 author: 假麻子
 date: 2025.10.04
+pubdate: "2025.10.04"
 ---
 # M1与M2剪刀差
 

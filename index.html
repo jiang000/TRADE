@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% assign posts = "" | split: "" %}
+{% for p in site.pages %}
+  {% if p.pubdate %}
+    {% assign posts = posts | push: p %}
+  {% endif %}
+{% endfor %}
+{% assign posts = posts | sort: "pubdate" | reverse %}
+
+<section class="intro">
+  <h1 class="page-title">全部文章</h1>
+  <p class="page-sub">共 {{ posts.size }} 篇 · 按发布时间倒序</p>
+</section>
+
+<div class="waterfall">
+  {% for post in posts %}
+    {% assign t = post.title %}
+    {% if t == nil or t == empty %}
+      {% assign t = post.name | remove: ".md" %}
+    {% endif %}
+    <a class="card" href="{{ post.url | relative_url }}">
+      <h2 class="card-title">{{ t }}</h2>
+      <div class="card-meta">
+        {% if post.author %}<span class="author">{{ post.author }}</span>{% endif %}
+        <span class="date">{{ post.pubdate }}</span>
+      </div>
+    </a>
+  {% endfor %}
+</div>

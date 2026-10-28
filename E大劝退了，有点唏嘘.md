@@ -1,6 +1,9 @@
 ---
+title: "E大劝退了，有点唏嘘"
+layout: default
 author: NP说财
 date: 2026.06.25
+pubdate: "2026.06.25"
 ---
 
 ![image-1](assets/E大劝退了_有点唏嘘/image-001.png)
